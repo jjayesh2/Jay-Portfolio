@@ -146,7 +146,7 @@ export const Hero: React.FC = () => {
           className="flex items-center gap-6"
         >
           <a
-            href="https://github.com/jayesh-jadhav" // Placeholder placeholder-free clean format
+            href="https://github.com/jjayesh2" // Placeholder placeholder-free clean format
             target="_blank"
             rel="noopener noreferrer"
             className="p-3 rounded-full glassmorphism text-gray-400 hover:text-accent hover:border-accent/30 hover:scale-110 hover:-translate-y-0.5 transition-all duration-300"
