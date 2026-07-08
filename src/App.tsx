@@ -36,7 +36,7 @@ const App: React.FC = () => {
         <div className="max-w-7xl mx-auto px-6 flex flex-col md:flex-row justify-between items-center gap-6 relative z-10">
           {/* Logo / Branding */}
           <div className="flex flex-col items-center md:items-start gap-1">
-            <span className="font-bold text-white tracking-tight">JAYESH JADHAV</span>
+            <span className="font-bold text-white tracking-tight">JAYESHSanjay  JADHAV</span>
             <span className="text-xs text-gray-500 font-mono">Aspiring Java Full Stack Developer</span>
           </div>
 
