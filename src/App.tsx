@@ -61,7 +61,7 @@ const App: React.FC = () => {
               <Github size={18} />
             </a>
             <a
-              href="https://linkedin.com/in/jayeshjadhav02"
+              href="https://linkedin.com/in/jayeshjadhav11"
               target="_blank"
               rel="noopener noreferrer"
               className="text-gray-500 hover:text-accent transition-colors duration-200"

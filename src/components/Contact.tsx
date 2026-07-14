@@ -130,7 +130,7 @@ export const Contact: React.FC = () => {
                   <Github size={20} />
                 </a>
                 <a
-                  href="https://linkedin.com/in/jayeshjadhav02"
+                  href="https://linkedin.com/in/jayeshjadhav11"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="p-3 rounded-xl glassmorphism border-white/5 text-gray-400 hover:text-white hover:border-accent/30 hover:-translate-y-1 transition-all"

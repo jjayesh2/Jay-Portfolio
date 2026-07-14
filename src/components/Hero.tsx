@@ -155,7 +155,7 @@ export const Hero: React.FC = () => {
             <Github size={20} />
           </a>
           <a
-            href="https://linkedin.com/in/jayeshjadhav02" // Clean link format
+            href="https://linkedin.com/in/jayeshjadhav11" // Clean link format
             target="_blank"
             rel="noopener noreferrer"
             className="p-3 rounded-full glassmorphism text-gray-400 hover:text-accent hover:border-accent/30 hover:scale-110 hover:-translate-y-0.5 transition-all duration-300"
